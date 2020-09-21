@@ -1,0 +1,47 @@
+﻿@model IEnumerable<myWebApp42.Models.AzureException>
+
+@{
+    ViewBag.Title = "List of AzureExceptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of To-Do Items</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Result)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Context)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var azureException in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => azureException.Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => azureException.Result)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => azureException.Context)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=azureException.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=azureException.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=azureException.Id })
+        </td>
+    </tr>
+}
+
+</table>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
