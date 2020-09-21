@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Temp\\src\\todo.csproj",
+  "FilePath": "c:\\Development\\MyWebApp42\\todo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,52 +14392,52 @@
   "RootNamespace": "todo",
   "Documents": [
     {
-      "FilePath": "c:\\Temp\\src\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\AzureException\\Create.cshtml",
-      "TargetPath": "Views\\AzureException\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\AzureException\\Delete.cshtml",
-      "TargetPath": "Views\\AzureException\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\AzureException\\Details.cshtml",
-      "TargetPath": "Views\\AzureException\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\AzureException\\Index.cshtml",
-      "TargetPath": "Views\\AzureException\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Temp\\src\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Temp\\src\\Views\\AzureException\\Edit.cshtml",
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\AzureException\\Delete.cshtml",
+      "TargetPath": "Views\\AzureException\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\AzureException\\Create.cshtml",
+      "TargetPath": "Views\\AzureException\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\AzureException\\Index.cshtml",
+      "TargetPath": "Views\\AzureException\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\AzureException\\Details.cshtml",
+      "TargetPath": "Views\\AzureException\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Development\\MyWebApp42\\Views\\AzureException\\Edit.cshtml",
       "TargetPath": "Views\\AzureException\\Edit.cshtml",
       "FileKind": "mvc"
     }
